@@ -43,3 +43,4 @@ D:\Proyectos\ASP.NET CORE\8_API_MongoDB_DTO_Service\API_CRUD_MongoDB\API_CRUD_Mo
 D:\Proyectos\ASP.NET CORE\8_API_MongoDB_DTO_Service\API_CRUD_MongoDB\API_CRUD_MongoDB\obj\Debug\net8.0\API_CRUD_MongoDB.pdb
 D:\Proyectos\ASP.NET CORE\8_API_MongoDB_DTO_Service\API_CRUD_MongoDB\API_CRUD_MongoDB\obj\Debug\net8.0\API_CRUD_MongoDB.genruntimeconfig.cache
 D:\Proyectos\ASP.NET CORE\8_API_MongoDB_DTO_Service\API_CRUD_MongoDB\API_CRUD_MongoDB\obj\Debug\net8.0\ref\API_CRUD_MongoDB.dll
+D:\Proyectos\ASP.NET CORE\8_API_MongoDB_DTO_Service\API_CRUD_MongoDB\API_CRUD_MongoDB\obj\Debug\net8.0\API_CRUD_MongoDB.sourcelink.json
